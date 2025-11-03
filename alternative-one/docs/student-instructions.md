@@ -15,9 +15,9 @@
 
 ## Getting Started
 
-1. **Download Materials**
-   - Starter template (optional but recommended)
-   - Test data file (`doctor-who-episodes-exam.json`)
+1. **Download Repository**
+   - Starter template
+   - Test data file
    - Exam specification
 
 2. **Review Requirements**
